@@ -15,7 +15,7 @@ agent any
     {
      steps
      {
-      sh 'mvn package'     
+      sh 'echo "HELLO"'     
      }
     }
  }
